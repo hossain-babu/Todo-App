@@ -1,2 +1,2 @@
 # Todo-App
- Simple todo-apps using laravel
+ Simple todo-apps using laravel framework.
